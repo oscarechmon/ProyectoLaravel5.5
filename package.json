@@ -12,10 +12,14 @@
     "devDependencies": {
         "axios": "^0.17",
         "cross-env": "^5.1",
+        "laravel-echo": "^1.15.0",
         "laravel-mix": "^1.0",
+        "pusher-js": "^8.0.2",
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "bootstrap-vue": "^2.23.1"
+        "ajv": "^6.9.1",
+        "bootstrap-vue": "^2.23.1",
+        "moment": "^2.29.4"
     }
 }
